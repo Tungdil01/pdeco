@@ -8,7 +8,7 @@ This repo contains studies of population dynamics considering a Prey-Predator sy
 
 ## How is the mathematical model?
 
-To model the Predator-Prey behavior, we consider a system of ordinary differential equations (ODEs) based on a structure of Lotka-Volterra. This setup can be easily configured in our `jupyter notebook`s provided in this repo.
+To model the Predator-Prey behaviour, we consider a system of ordinary differential equations (ODEs) based on a structure of Lotka-Volterra. This setup can be easily configured in our `jupyter notebook`s provided in this repo.
 
 ## How the models are implemented?
 
